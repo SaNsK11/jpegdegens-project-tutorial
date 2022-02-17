@@ -1,0 +1,10 @@
+{
+  "name": "jpegdegens",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "SaNsK11 <SaNsK11@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.8.4"
+  }
+}
